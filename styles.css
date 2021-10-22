@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans Mono', monospace;
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 92vh;
+}
+
+.about-img{
+    min-width: 100%;
+    max-height: 280px; ;
+}
+/* responsive css code*/
+
+.services img{
+    max-width: 100%;
+    height: 100%;
+}
+
+.offer-style{
+    background: #a6dcef;
+}
+footer p{
+ margin-bottom: 0%;
+}
